@@ -1,0 +1,40 @@
+
+    @media print {
+       /* Todas las reglas Css */
+
+       @page{
+        size: landscape;
+        margin: 5%;
+        margin-left: 10px;
+
+       }
+       .sidebar .menu {
+            display: none;
+       }
+
+       .breadcrumb {
+        display: none;
+       }
+
+       .header-actions{
+        display: none;
+       }
+
+       .sidebar-header{
+        display: none;
+       }
+
+       .sidebar-footer{
+        display: none;
+       }
+
+       .content-header{
+        display: none;
+       }
+
+       .main-content{
+        margin-left: 10px;
+        margin-top: 30px;
+       }
+
+    }

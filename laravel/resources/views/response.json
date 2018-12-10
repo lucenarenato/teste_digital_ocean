@@ -1,0 +1,11 @@
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI13iJ9.eyJpc3MiOiJodHRwOi8vY29kZWFydGlzYW2ubGlmzS9hcGkvZGRzaGJvYXJkL2xvZ2luIiwiaWF0IjoxN9iQ2g0MDUxLCJleHAiOj5MDM4NDA1MSwiE0OTAzODc2NTEsIm5iZiI6MTQanRpIjoiQ2FLDkwMzbjlZdTFWWU9kMEpNYSIsInN1YiI6MX0.0xnDrfGhT7-7DkMCjZ9LSsSjw_zUmXMwXDZq6TFyHas",
+    "user": {
+        "id": 1,
+        "email": "johndoe@gmail.com",
+        "first_name": "John",
+        "last_name": "Doe",
+        "created_at": "2017-03-21 16:22:59",
+        "updated_at": "2017-03-21 16:22:59"
+    }
+}

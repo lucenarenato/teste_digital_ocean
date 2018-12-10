@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="26px" viewBox="0 0 24 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 4.54161336e-15 0 11.5051546 5.57895789 11.5051546 5.57895789 0 8.55949084e-21 1.36248401e-14"></polygon>
+        <polygon id="path-3" points="0 30.8002577 24 30.8002577 24 0 0 0"></polygon>
+    </defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contato" transform="translate(-756.000000, -1251.000000)">
+            <g id="Group-6" transform="translate(756.000000, 1246.000000)">
+                <g id="Page-1">
+                    <g id="Group-5" transform="translate(0.000000, 5.552835)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <polygon id="Fill-3" fill="#223263" mask="url(#mask-2)" points="4.63158947 0 0.947273684 0 -9.47368421e-05 11.5051546 5.57895789 11.5051546"></polygon>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <path d="M17.3684211,23.1301546 L21.7894737,23.1301546 L21.7894737,20.253866 L17.3684211,20.253866 L17.3684211,23.1301546 Z M12.9473684,23.1301546 L16.4210526,23.1301546 L16.4210526,20.253866 L12.9473684,20.253866 L12.9473684,23.1301546 Z M7.57894737,23.1301546 L12,23.1301546 L12,20.253866 L7.57894737,20.253866 L7.57894737,23.1301546 Z M15.7894737,17.6770309 L15.7894737,13.4361031 L7.51326316,17.6971649 L0,17.6971649 L0,30.8002577 L24,30.8002577 L24,23.1566804 L24,17.6971649 L24,13.4361031 L15.7894737,17.6770309 Z" id="Fill-8" fill="#223263" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

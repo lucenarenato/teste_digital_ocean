@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="13px" viewBox="0 0 28 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Rodapé" transform="translate(-1254.000000, -214.000000)" stroke="#F3F3F3">
+            <polyline id="Line" transform="translate(1267.875866, 220.502092) rotate(-90.000000) translate(-1267.875866, -220.502092) " points="1261.63041 207.626226 1274.37796 220.373774 1261.37377 233.377958"></polyline>
+        </g>
+    </g>
+</svg>

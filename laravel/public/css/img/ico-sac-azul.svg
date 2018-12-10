@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contato" transform="translate(-256.000000, -1063.000000)">
+            <g id="Group-2" transform="translate(256.000000, 1064.000000)">
+                <g id="Group-17">
+                    <path d="M23,13.3064516 C23,7.84047153 20.4565379,3.14424687 16.819536,1.09652804 C15.5666288,0.391111358 9.37133993,0.53626039 8.23604472,1.09652804 C4.36867574,3.00507283 2.46153846,7.62525828 2.46153846,13.3064516 C2.46153846,20.6554019 10.130353,23.1613707 10.130353,23.1613707" id="Oval-4" stroke="#1A2E67" stroke-width="2"></path>
+                    <rect id="Rectangle-9" fill="#1A2E67" x="0" y="11.2903226" width="4.92307692" height="8.06451613" rx="2.46153846"></rect>
+                    <rect id="Rectangle-9-Copy" fill="#1A2E67" x="21" y="11" width="4.92307692" height="8.06451613" rx="2.46153846"></rect>
+                    <rect id="Rectangle-9-Copy" fill="#1A2E67" transform="translate(11.225806, 22.641026) rotate(-270.000000) translate(-11.225806, -22.641026) " x="9.19093466" y="18.6410256" width="4.06974359" height="8" rx="2.03487179"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
